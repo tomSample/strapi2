@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_contact_forms",
+  "info": {
+    "displayName": "Form",
+    "icon": "envelop"
+  },
+  "options": {},
+  "attributes": {
+    "your_name": {
+      "type": "string"
+    },
+    "your_email": {
+      "type": "email"
+    },
+    "your_message": {
+      "type": "text"
+    },
+    "date": {
+      "type": "date"
+    }
+  }
+}
