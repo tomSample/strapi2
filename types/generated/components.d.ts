@@ -22,6 +22,7 @@ export interface LinksLink extends Struct.ComponentSchema {
     icon: 'link';
   };
   attributes: {
+    link_name: Schema.Attribute.String;
     url: Schema.Attribute.String;
   };
 }

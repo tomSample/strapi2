@@ -9,6 +9,9 @@
   "attributes": {
     "url": {
       "type": "string"
+    },
+    "link_name": {
+      "type": "string"
     }
   }
 }
